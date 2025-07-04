@@ -89,21 +89,9 @@ Run the project with:
 **Using [conda](https://docs.conda.io/):**
 
 ```sh
-conda activate {venv}
-python {entrypoint}
+conda activate gutenberg-nlp
+python project.py
 ```
-
-### Testing
-
-Project-gutenberg-nlp-engine uses the {__test_framework__} test framework. Run the test suite with:
-
-**Using [conda](https://docs.conda.io/):**
-
-```sh
-conda activate {venv}
-pytest
-```
-
 ---
 
 <div align="left"><a href="#top">⬆ Return</a></div>
